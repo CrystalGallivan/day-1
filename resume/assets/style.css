@@ -1,0 +1,43 @@
+*
+  section{
+  outline: 1px solid lightgray;
+}
+h1 {
+  color: teal;
+}
+  
+    address {
+    background-color: blue;
+    color: white;
+  }
+  address ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  address li {
+    padding: 2px 20px;
+  }
+  section>header {
+    color: red;
+
+  }
+  #skills ul {
+    column-count: 3;
+    list-style: none;
+  
+  }
+#skills li {
+  padding: 5px 0px;
+}
+section .job {
+  background-color: rgba(rgb(66, 139, 201), green, blue, .125);
+}
+article.job {
+  background-color: rgba(rgb(86, 139, 201), green, blue, .125);
+}
+main {
+  background-image: url(https://images.app.goo.gl/Pzr3evkvnD6DkqG2A)
+  
+
+}
