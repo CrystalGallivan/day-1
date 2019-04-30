@@ -1,5 +1,8 @@
 section.title {
 background-color: darkblue;
 color: white;
-font: 24em sans-serif;
+font: 4em sans-serif;
+}
+section.blue-box {
+background-color: darkblue;
 }
